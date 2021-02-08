@@ -1,0 +1,8 @@
+What is RFM Analysis?
+RFM stands for Recency, Frequency, and Monetary value, each corresponding to some key customer trait. These RFM metrics are important indicators of a customer’s behavior because frequency and monetary value affects a customer’s lifetime value, and recency affects retention, a measure of engagement.
+
+RFM factors illustrate these facts:
+
+the more recent the purchase, the more responsive the customer is to promotions
+the more frequently the customer buys, the more engaged and satisfied they are
+monetary value differentiates heavy spenders from low-value purchasers
